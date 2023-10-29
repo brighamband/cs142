@@ -1,5 +1,5 @@
 /*
-Brigham Andersen (brighamband@gmail.com) &
+Brigham Andersen (brighambandersen@gmail.com) &
 Spencer Andersen (spencerandersen1@gmail.com)
 CS 142 Section 3
 Description:  Lab #4 Plinko

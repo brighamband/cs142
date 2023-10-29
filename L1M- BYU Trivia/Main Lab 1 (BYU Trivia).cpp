@@ -1,5 +1,5 @@
 /*
-Brigham Andersen, Section 3, brighamband@gmail.com
+Brigham Andersen, Section 3, brighambandersen@gmail.com
 Description:  Outputs a table of Basic BYU Trivia
 */
 
